@@ -1,0 +1,17 @@
+@import '../../utils/variables.scss';
+.my-tata {
+	//background-color: green;
+	.home-div {
+		.welcome {
+			.home-page {
+				//background-color: white;
+				margin: 28% 10% 8% 12%;
+				color: $tata-cliq-red;
+			}
+		}
+		.description {
+			//background-color: red;
+			//color: $white-shadowed;
+		}
+	}
+}
